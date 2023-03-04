@@ -14,7 +14,6 @@ public class Diretor extends Pessoa {
 
 
     }
-    ArrayList<String> filme = new ArrayList<>();
 
 
 }

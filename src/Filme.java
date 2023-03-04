@@ -3,7 +3,6 @@ import java.util.ArrayList;
 
  public class Filme {
 
-     ArrayList<String> filme = new ArrayList<>();
 
 
    private String nome;
