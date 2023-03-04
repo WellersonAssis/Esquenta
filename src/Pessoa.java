@@ -1,4 +1,5 @@
-public class Pessoa {
+
+abstract class Pessoa {
 
     private String nome;
 
